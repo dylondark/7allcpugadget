@@ -10,18 +10,9 @@ import org.kde.plasma.components as PlasmaComponents
 import org.kde.plasma.core as PlasmaCore
 
 PlasmoidItem {
-    preferredRepresentation: fullRepresentation
-    ColumnLayout {
-        anchors.fill: parent
-        Image {
-            Layout.fillHeight: true
-            Layout.fillWidth: true
-            fillMode: Image.PreserveAspectFit
-            source: "../images/pairs.svgz"
-        }
-        PlasmaComponents.Label {
-            Layout.alignment: Qt.AlignCenter
-            text: "This is Plasma!"
-        }
+    preferredRepresentation: compactRepresentation
+    
+    Base {
+        id: base
     }
 }
