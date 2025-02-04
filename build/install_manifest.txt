@@ -1,4 +1,0 @@
-/usr/share/plasma/plasmoids/com.github.dylondark.7allcpugadget/contents/images/pairs.svgz
-/usr/share/plasma/plasmoids/com.github.dylondark.7allcpugadget/contents/ui/main.qml
-/usr/share/plasma/plasmoids/com.github.dylondark.7allcpugadget/metadata.json
-/usr/share/metainfo/com.github.dylondark.7allcpugadget.appdata.xml
