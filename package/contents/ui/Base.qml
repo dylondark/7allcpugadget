@@ -1,6 +1,10 @@
-import QtQuick 2.15
+import QtQuick
 
 Rectangle {
     anchors.fill: parent
-    color: "black"
+    gradient: Gradient {
+        orientation: Gradient.Vertical
+        GradientStop { position: 0.0; color: "#4A4B4B" }
+        GradientStop { position: 1.0; color: "#080808" }
+    }
 }
