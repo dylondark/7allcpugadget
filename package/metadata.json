@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "dmanmiller2004@gmail.com",
+                "Name": "Dylan Miller"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Windows 7 Gadget Inspired CPU Meter",
+        "Icon": "qml-plasmoid6.png",
+        "Id": "com.github.dylondark.7clockgadget",
+        "License": "GPLv2+",
+        "Name": "7 All CPU Gadget",
+        "Version": "0.0.1",
+        "Website": "https://github.com/dylondark/7allcpugadget"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
