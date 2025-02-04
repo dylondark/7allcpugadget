@@ -7,10 +7,10 @@
                 "Name": "Dylan Miller"
             }
         ],
-        "Category": "System Information",
+        "Category": "Monitoring",
         "Description": "Windows 7 Gadget Inspired CPU Meter",
-        "Icon": "qml-plasmoid6.png",
-        "Id": "com.github.dylondark.7clockgadget",
+        "Icon": "cpu",
+        "Id": "com.github.dylondark.7allcpugadget",
         "License": "GPLv2+",
         "Name": "7 All CPU Gadget",
         "Version": "0.0.1",
